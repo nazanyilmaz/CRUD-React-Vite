@@ -1,9 +1,8 @@
-# React + Vite
+<h1>CRUD-React-Vite</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>It is a crud project designed with react-Vite. You can add a new list element in this project. It can update list elements. You can delete list elements. Each page can contain 3 list elements. You can increase or decrease this number. You can navigate between pages./p>
 
-Currently, two official plugins are available:
+<h3>Projecy Gif</h3>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# CRUD-React-Vite
+
+![Screen Recording 2024-01-28 at 06 31 46 PM](https://github.com/nazanyilmaz/CRUD-React-Vite/assets/147782488/5c52bd1c-0a69-4182-b3c9-736c7629c0fc)
