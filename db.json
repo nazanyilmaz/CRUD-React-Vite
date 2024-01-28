@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "641d85b4-5231-4739-9df3-7d8b51de7516",
+      "title": "update Linkedin",
+      "status": "job",
+      "date": "1/28/2024"
+    },
+    {
+      "id": "a36ef83a-eb65-4698-a3e3-c71a5e7fecc9",
+      "title": "search UUID",
+      "status": "important",
+      "date": "1/28/2024"
+    },
+    {
+      "id": "6219095d-e0f9-4ddc-8d98-32d4ec8bf8e2",
+      "title": "repeat SQL",
+      "status": "important",
+      "date": "1/28/2024"
+    },
+    {
+      "id": "04e43ce8-86f8-4852-9ebd-536d47a887d1",
+      "title": "learn JS",
+      "status": "daily",
+      "date": "1/28/2024"
+    }
+  ]
+}
